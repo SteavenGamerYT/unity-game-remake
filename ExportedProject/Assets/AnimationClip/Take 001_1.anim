@@ -2,11 +2,11 @@
 %TAG !u! tag:unity3d.com,2011:
 --- !u!74 &7400000
 AnimationClip:
-  serializedVersion: 6
   m_ObjectHideFlags: 0
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
-  m_Name: Take 001
+  m_Name: Take 001_1
+  serializedVersion: 6
   m_Legacy: 1
   m_Compressed: 0
   m_UseHighQualityCurve: 1
@@ -57,15 +57,15 @@ AnimationClip:
       m_Curve:
       - serializedVersion: 2
         time: 0
-        value: {x: -0, y: 0.27838135, z: -8.283775E-08}
-        inSlope: {x: -0, y: 3.4694467E-15, z: -1.418024E-21}
-        outSlope: {x: -0, y: 3.4694467E-15, z: -1.418024E-21}
+        value: {x: -0, y: 0.27838135, z: -0.00000008283775}
+        inSlope: {x: -0, y: 3.4694467e-15, z: -1.418024e-21}
+        outSlope: {x: -0, y: 3.4694467e-15, z: -1.418024e-21}
         tangentMode: 0
       - serializedVersion: 2
         time: 0.033333335
-        value: {x: -0, y: 0.27838135, z: -8.283775E-08}
-        inSlope: {x: -0, y: 1.4869059E-15, z: -3.3087222E-21}
-        outSlope: {x: -0, y: 1.4869059E-15, z: -3.3087222E-21}
+        value: {x: -0, y: 0.27838135, z: -0.00000008283775}
+        inSlope: {x: -0, y: 1.4869059e-15, z: -3.3087222e-21}
+        outSlope: {x: -0, y: 1.4869059e-15, z: -3.3087222e-21}
         tangentMode: 0
       m_PreInfinity: 2
       m_PostInfinity: 2
@@ -77,14 +77,14 @@ AnimationClip:
       - serializedVersion: 2
         time: 0
         value: {x: -0, y: 0, z: -0.2712292}
-        inSlope: {x: -0, y: -0, z: -6.9388935E-15}
-        outSlope: {x: -0, y: -0, z: -6.9388935E-15}
+        inSlope: {x: -0, y: -0, z: -6.9388935e-15}
+        outSlope: {x: -0, y: -0, z: -6.9388935e-15}
         tangentMode: 0
       - serializedVersion: 2
         time: 0.033333335
         value: {x: -0, y: 0, z: -0.2712292}
-        inSlope: {x: -0, y: -0, z: -2.9738118E-15}
-        outSlope: {x: -0, y: -0, z: -2.9738118E-15}
+        inSlope: {x: -0, y: -0, z: -2.9738118e-15}
+        outSlope: {x: -0, y: -0, z: -2.9738118e-15}
         tangentMode: 0
       m_PreInfinity: 2
       m_PostInfinity: 2
@@ -134,7 +134,7 @@ AnimationClip:
   m_SampleRate: 60
   m_WrapMode: 0
   m_Bounds:
-    m_Center: {x: -5.364418E-07, y: 0.8222866, z: -0.13735044}
+    m_Center: {x: -0.0000005364418, y: 0.8222866, z: -0.13735044}
     m_Extent: {x: 0.7132, y: 0.82231283, z: 0.5341504}
   m_ClipBindingConstant:
     genericBindings: []

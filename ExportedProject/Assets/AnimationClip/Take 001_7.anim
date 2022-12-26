@@ -2,11 +2,11 @@
 %TAG !u! tag:unity3d.com,2011:
 --- !u!74 &7400000
 AnimationClip:
-  serializedVersion: 6
   m_ObjectHideFlags: 0
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
-  m_Name: Take 001
+  m_Name: Take 001_7
+  serializedVersion: 6
   m_Legacy: 1
   m_Compressed: 0
   m_UseHighQualityCurve: 1
@@ -383,7 +383,7 @@ AnimationClip:
       m_PreInfinity: 2
       m_PostInfinity: 2
       m_RotationOrder: 4
-    path:
+    path: 
   m_CompressedRotationCurves: []
   m_EulerCurves: []
   m_PositionCurves:
@@ -393,19 +393,19 @@ AnimationClip:
       - serializedVersion: 2
         time: 0
         value: {x: 4.6743164, y: 0, z: 7.032959}
-        inSlope: {x: -0, y: -0, z: 1.11022296E-13}
-        outSlope: {x: -0, y: -0, z: 1.11022296E-13}
+        inSlope: {x: -0, y: -0, z: 1.11022296e-13}
+        outSlope: {x: -0, y: -0, z: 1.11022296e-13}
         tangentMode: 0
       - serializedVersion: 2
         time: 0.033333335
         value: {x: 4.6743164, y: 0, z: 7.032959}
-        inSlope: {x: -0, y: -0, z: 4.7580988E-14}
-        outSlope: {x: -0, y: -0, z: 4.7580988E-14}
+        inSlope: {x: -0, y: -0, z: 4.7580988e-14}
+        outSlope: {x: -0, y: -0, z: 4.7580988e-14}
         tangentMode: 0
       m_PreInfinity: 2
       m_PostInfinity: 2
       m_RotationOrder: 4
-    path:
+    path: 
   m_ScaleCurves:
   - curve:
       serializedVersion: 2
@@ -779,7 +779,7 @@ AnimationClip:
       m_PreInfinity: 2
       m_PostInfinity: 2
       m_RotationOrder: 4
-    path:
+    path: 
   m_FloatCurves: []
   m_PPtrCurves: []
   m_SampleRate: 60

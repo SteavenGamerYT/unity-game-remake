@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/Scenes/Zombie3D/Zombie3D_Hospital.unity
+  isLoaded: 1
+  isActive: 1
